@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>Prueba de PHP - alejocas</title>
+	</head>
+	<body>
+		<?php
+		$nombre = "Alejandro";
+		?>
+		<p>Hola mundo -> <?php echo $nombre ?> :D</p>
+	</body>
+</html>
