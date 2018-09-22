@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<?php
-		$nombre = "Alejandro";
+		$nombre = $_GET['nombre'];
 		?>
 		<p>Hola mundo -> <?php echo $nombre ?> :D</p>
 	</body>
